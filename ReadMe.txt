@@ -20,4 +20,5 @@ Q_Learning
 -1 for hole.
 0 for others.
 
+Q_table.py contains the code to initialize and set the Q table training and the test.py helps in running the Q_table that is trained along with the environment output.
 	      ***
